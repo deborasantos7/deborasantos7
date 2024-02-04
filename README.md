@@ -1,6 +1,6 @@
 <h1>Hi there! I'm Debora, an <a href="https://www.linkedin.com/in/deborasilvasantos/"> aspiring IT Help Desk Professional!
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>:woman_technologist: Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/deborasantos7/osticket-prereqs)
