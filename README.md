@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Debora, an <a href="https://www.linkedin.com/in/deborasilvasantos/"> aspiring IT Helpdesk Professional!
+<h1>Hi there! I'm Debora, an <a href="https://www.linkedin.com/in/deborasilvasantos/"> aspiring IT Help Desk Professional!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
