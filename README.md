@@ -2,15 +2,11 @@
 
 <h2>:woman_technologist: Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/deborasantos7/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/deborasantos7/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/deborasantos7/ticket-lifecycle)
+
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine](https://github.com/deborasantos7/azure-vm)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/deborasantos7/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/deborasantos7/azure-network-protocols)
+
 
 
 
